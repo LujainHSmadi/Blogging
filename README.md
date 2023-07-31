@@ -26,6 +26,9 @@ Remember to make these commands:
 6) php artisan route:clear
 
 Remember to create a Database and make this command:
+
 7) php artisan migrate:fresh --seed
+
+This blog has a categories section, each blog belongs to a category.
 
 
