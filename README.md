@@ -6,7 +6,7 @@ simple blogging website
 
 created by Lujain Alsmadi
 
-To login into Admin dashboard :
+To login into the Admin dashboard :
 1) Super Admin: this user has the full privilege.
 Email: super_admin@blogging.com
 Password: 12345678
