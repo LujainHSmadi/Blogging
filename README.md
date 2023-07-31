@@ -16,3 +16,16 @@ Password: 12345678
 c) He can't access users' information or add and delete in the user section
 Email: super_admin@blogging.com
 Password: 12345678
+
+Remember to make these commands:
+php artisan optimize
+php artisan cache:clear
+php artisan config:cache
+php artisan view:clear
+php artisan route:cache
+php artisan route:clear
+
+Remember to create a Database and make this command:
+php artisan migrate:fresh --seed
+
+
