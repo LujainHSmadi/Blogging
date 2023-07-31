@@ -18,14 +18,14 @@ Email: super_admin@blogging.com
 Password: 12345678
 
 Remember to make these commands:
-php artisan optimize
-php artisan cache:clear
-php artisan config:cache
-php artisan view:clear
-php artisan route:cache
-php artisan route:clear
+1) php artisan optimize
+2) php artisan cache:clear
+3) php artisan config:cache
+4) php artisan view:clear
+5) php artisan route:cache
+6) php artisan route:clear
 
 Remember to create a Database and make this command:
-php artisan migrate:fresh --seed
+7) php artisan migrate:fresh --seed
 
 
